@@ -1,0 +1,4 @@
+﻿  pr6_22.cpp
+C:\Users\andri\source\repos\PR_6_22\PR_6_22\pr6_22.cpp(27,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andri\source\repos\PR_6_22\PR_6_22\pr6_22.cpp(40,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  PR_6_22.vcxproj -> C:\Users\andri\source\repos\PR_6_22\x64\Debug\PR_6_22.exe
